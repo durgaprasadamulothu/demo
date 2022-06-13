@@ -1,2 +1,2 @@
-# demo
-demo project
+# sample
+sample project
